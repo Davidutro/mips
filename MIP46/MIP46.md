@@ -1,6 +1,7 @@
 # MIP46: Parameter Proposal Groups
 
 ## Preamble
+
 ```
 MIP#: 46
 Title: Parameter Proposal Groups
@@ -13,6 +14,7 @@ Date Ratified: 2021-25-03
 Dependencies: None
 Replaces: None
 ```
+
 ## References
 
 None.
@@ -57,7 +59,7 @@ Each prospective Parameter Proposal Group must fulfill and maintain a set of req
 
 **Objectives** - The Parameter Proposal Group must lay out what high objective or objectives they are trying to achieve through their proposals.
 
-**Scope** - The Parameter Proposal Group must lay out which parameters they consider 'in-scope' for the group. This should be related back to the group's objective or objectives. 
+**Scope** - The Parameter Proposal Group must lay out which parameters they consider 'in-scope' for the group. This should be related back to the group's objective or objectives.
 
 **Identity** - Every new Parameter Proposal Group must take a new number in the PPG-X format where X is an increasing integer starting at 1. Each group may also use a more descriptive or informal name if they wish.
 
@@ -67,7 +69,7 @@ Each prospective Parameter Proposal Group must fulfill and maintain a set of req
 
 **Conflicts of Interest** - The Parameter Proposal Group members must publicize any conflicts of interest at the time of group formation, and if further conflicts arise, these should be communicated via the official forum. Conflicts of Interest are not an issue so long as they are properly disclosed.
 
-**Cooperative** - Parameter Proposal Groups are not in competition with each other. All groups are encouraged to share and make public the data they are using. Where multiple Parameter Proposal Groups are covering the same parameters these groups must coordinate timing to give governance a choice of proposals. 
+**Cooperative** - Parameter Proposal Groups are not in competition with each other. All groups are encouraged to share and make public the data they are using. Where multiple Parameter Proposal Groups are covering the same parameters these groups must coordinate timing to give governance a choice of proposals.
 
 **Reactive** - In the event of unforeseen changes to the ecosystem or operation of the Maker Protocol, parameter proposal groups should consider making additional proposals.
 
@@ -75,20 +77,20 @@ Each prospective Parameter Proposal Group must fulfill and maintain a set of req
 
 Each parameter proposal must fulfill a set of requirements in order to be recognized by the Governance Facilitators as a valid proposal. These requirements are laid out here.
 
-**Communication** - Parameter Proposals must be posted publicly on the Maker Governance forum. 
+**Communication** - Parameter Proposals must be posted publicly on the Maker Governance forum.
 
 **Discussion** - Parameter Proposals must be presented with enough of a feedback period to give the community time to respond and discuss the proposal. Questions, concerns, or queries must be answered if brought up by the Maker community, and feedback must be considered before finalizing the proposal.
 
-**Clear and Unambiguous** - Parameter Proposals must be clearly formatted and presented. There must be no confusion as to which parameter changes are being proposed, or what the current values of these parameters are. 
+**Clear and Unambiguous** - Parameter Proposals must be clearly formatted and presented. There must be no confusion as to which parameter changes are being proposed, or what the current values of these parameters are.
 
 **Rationale** - Each parameter change must be accompanied by a rationale that explains why the change has been proposed. This rationale must connect to the stated goal of the Parameter Proposal Group.
 
 ### MIP46c3: Parameter Proposal Process
 
-Parameter Proposals are first presented on the Maker Governance forum and are then entered into the weekly governance cycle by the Governance Facilitators. Where possible, Parameter Proposals should be made public on the first Monday of the month for inclusion into the weekly cycle in the second week of the month. 
+Parameter Proposals are first presented on the Maker Governance forum and are then entered into the weekly governance cycle by the Governance Facilitators. Where possible, Parameter Proposals should be made public on the first Monday of the month for inclusion into the weekly cycle in the second week of the month.
 
 Sufficient time must be given for discussion, and inclusion in the weekly cycle may be delayed by the Governance Facilitators if they feel more discussion is required.
 
 Proposed Parameter Changes will be bundled into a single on-chain poll for inclusion in the weekly cycle, and if the outcome is favorable, will proceed to that week's executive vote absent unforeseen circumstances.
 
-Urgent or emergency proposals from Parameter Proposal Groups should follow the existing guidelines for urgent or emergency proposals.  
+Urgent or emergency proposals from Parameter Proposal Groups should follow the existing guidelines for urgent or emergency proposals.
