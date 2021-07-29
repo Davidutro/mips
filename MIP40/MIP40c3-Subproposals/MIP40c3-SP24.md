@@ -1,4 +1,4 @@
-# MIP40c3-SP24: Modify Dai Foundation Core Unit Budget
+# MIP40c3-SP24: Modify Core Unit Budget - Dai Foundation (DAIF-001)
 
 ## Preamble
 
@@ -7,7 +7,7 @@ MIP40c3-SP#: 24
 Author(s): @sorenpeter 
 Contributors: @juanjuan
 Tags: dai-foundation, core-unit, daif-001, budget
-Status: Request for Comments (RFC)
+Status: RFC
 Date Applied: 2021-07-07
 Date Ratified: YYYY-MM-DD
 ```

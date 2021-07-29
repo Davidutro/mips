@@ -1,4 +1,4 @@
-# MIP40c3-SP15: Modify Oracles Core Unit Budget
+# MIP40c3-SP15: Modify Core Unit Budget - Oracles (ORA-001)
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP40c3-SP#: 15
 Author(s): Niklas Kunkel
 Contributors: N/A
-Tags: core-unit, cu-ora-001, budget, active
+Tags: core-unit, cu-ora-001, budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28
@@ -14,7 +14,7 @@ Date Ratified: 2021-06-28
 
 ## Sentence Summary
 
-The Oracle Core Unit is requesting an annual budget of $5M.
+The Oracles Core Unit is requesting an annual budget of $5M.
 
 ## Paragraph Summary
 

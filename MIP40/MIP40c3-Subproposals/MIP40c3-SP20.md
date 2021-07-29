@@ -1,4 +1,4 @@
-# MIP40c3-SP20: Adding Budget to AmaZix Marketing Core Unit, AMZX-001
+# MIP40c3-SP20: Modify Core Unit Budget - AmaZix Marketing (AMZX-001)
 
 ## Preamble
 
@@ -7,7 +7,7 @@ MIP40c3-SP#: # 20
 Author(s): @mitchell_amazix
 Contributors: N/A
 tags: core-unit, cu-amzx-001, budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-06-09
 Date Ratified: 
 ```

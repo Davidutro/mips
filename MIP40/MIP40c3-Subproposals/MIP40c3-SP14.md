@@ -1,4 +1,4 @@
-# MIP40c3-SP14: Modify Collateral Engineering Services Core Unit Budget
+# MIP40c3-SP14: Modify Core Unit Budget - Collateral Engineering Services (CES-001)
 
 ## Preamble
 
@@ -7,7 +7,7 @@ MIP40c3-SP#: 14
 Author(s): @monkey.irish
 Contributors:
 Tags: core-unit, cu-ces-001, budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
 ```

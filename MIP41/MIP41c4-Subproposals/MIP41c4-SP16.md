@@ -1,5 +1,9 @@
 # MIP41c4-SP16: Facilitator Onboarding For The AmaZix Marketing Core Unit, AMZX-001
 
+## Sentence Summary
+
+MIP41c4-SP16 onboards @mitchell_amazix as Facilitator for the AmaZix Marketing Proposal Core Unit (AMZX-001).
+
 ## Preamble
 
 ```
@@ -7,7 +11,7 @@ MIP41c4-SP#: 16
 Author(s): @mitchell_amazix
 Contributors: N/A
 Tags: core-unit, cu-amzx-001, facilitator
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-06-09
 Date Ratified:
 ```

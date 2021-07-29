@@ -1,4 +1,4 @@
-# MIP40c3-SP18: Add Core Unit Budget, CPM-001
+# MIP40c3-SP18: Add Core Unit Budget - Strategic Marcomms (CPM-001)
 
 ## Preamble
 
@@ -7,7 +7,7 @@ MIP40c3-SP#: 18
 Author: Kathleen Chu 
 Contributors: @HBJ, @AdrienDLT, Francesco Alberti, Kaori Sato, @Sahabia, Jose Vicente
 tags: core-unit, cu-cpm-001, budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
 ```  

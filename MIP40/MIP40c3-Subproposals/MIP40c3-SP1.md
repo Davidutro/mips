@@ -1,4 +1,4 @@
-# MIP40c3-SP1: Modify Core Unit Budget (Real-World Finance)
+# MIP40c3-SP1: Modify Core Unit Budget - Real-World Finance (RWF-001)
 
 ## Preamble
 
@@ -11,6 +11,10 @@ Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
 ```
+
+## Sentences Summary
+
+MIP40c3-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
 
 ## Specification
 
