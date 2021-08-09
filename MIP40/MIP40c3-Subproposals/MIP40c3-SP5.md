@@ -3,10 +3,10 @@
 ## Preamble
 
 ```
-MIP41c3-SP#: 5
+MIP40c3-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
-Tags: core-unit, cu-mkt-001, budget
+Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27

@@ -1,11 +1,11 @@
-# MIP40c2-SP9: Modify Core Unit Budget - Strategic Marcomms (CPM-001)
+# MIP40c3-SP9: Modify Core Unit Budget - Strategic Marcomms (CPM-001)
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 9
+MIP40c3-SP#: 9
 Author(s): Kathleen Chu
-Tags: core-unit, cu-cpm-001, budget
+Tags: core-unit, cu-cpm-001, budget, dai-budget
 Status: Rejected
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
