@@ -133,7 +133,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 
    These periods can overlap. See `MIP0c1` for their definitions.
    
-> Please note that the lenghts for these periods is conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md, more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
+> Please note that the lenghts for these periods are conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md), more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
 
 4. **Fulfilled Feedback Period Requirements:** After the MIP has fulfilled the RFC phase, it is ready for Formal Submission.
 
@@ -232,7 +232,7 @@ Externally referenced materials are not MIP content and are not ratified when a 
 - The Technical MIP Template should be used for MIPs whenever a MIP proposes changes to the smart contract code within the Maker Protocol.
 - The Technical MIP Template is located at **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
----    
+---
 
 ### MIP0c8: MIP0 Domain Role Dependencies
 
@@ -263,7 +263,7 @@ Governance Facilitators are defined as Facilitators attached to Core Units with 
 
 ---
 
-### MIP0c09: MIP Editor Role  
+### MIP0c9: MIP Editor Role  
 
 #### Responsibilities
 
